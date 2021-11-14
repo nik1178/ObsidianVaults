@@ -34,6 +34,7 @@ Je orodje za modeliranje podatkov, ki prikazuje povezave (odnose) med različnim
 
 ##### Z E-R modelom opišemo podatkovni vidik strukturne analize
 
+![[Zapis E-R diagrama]]
 ![[Primer E-R modela]]
 ![[Grafični simboli za predstavitev E-R modela]]
 ![[Modeliranje]]

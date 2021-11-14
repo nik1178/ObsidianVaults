@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b56016b6f0e9a3fa",
+        "id": "600f21d6865e4c83",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Relacija/Podatkovni modeli/E-R model/Moderliranje postopkov.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relacija/Podatkovni modeli/E-R model/Moderliranje postopkov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b56016b6f0e9a3fa",
+  "active": "600f21d6865e4c83",
   "lastOpenFiles": [
-    "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
-    "Relacija/Relacije.md",
     "Relacija/Podatkovni modeli/E-R model/Moderliranje postopkov.md",
     "Relacija/Podatkovni modeli/E-R model/Normalizacija.md",
+    "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
     "Relacija/Podatkovni modeli/E-R model.md",
     "Relacija/Podatkovni modeli/E-R model/Primer E-R modela.md",
-    "Relacija/Podatkovni modeli/E-R model/Zapis E-R diagrama.md",
-    "Relacija/Podatkovni modeli/E-R model/Modeliranje.md",
-    "Relacija/Informacijski sistem.md",
-    "Java/Abstraktni razred.md"
+    "Relacija/Podatkovni modeli/Semantični podatkovni modeli.md",
+    "Relacija/Podatkovni modeli/Relacijski model.md",
+    "Relacija/Podatkovni modeli/Relacijska algebra.md",
+    "Relacija/Podatkovni modeli.md",
+    "Relacija/Koncepti abstrakcije pri modeliranju podatkov.md"
   ]
 }
