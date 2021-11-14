@@ -1,0 +1,2 @@
+# Selekcija ( $\sigma$[F]r)
+- Zastavimo pogoj F, kateremu morajo ugajati [[Relacijski model#Atribut|atributi]], da se preslikajo. (preslikajo se vsi stolpci, ampak samo vrstice, ki imajo vrednosti, ki zadoščajo F pogoju)

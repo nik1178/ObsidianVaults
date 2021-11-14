@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "a653dd35e57f2019",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d4b53129b53830",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+            "mode": "source"
+          }
+        },
+        "group": "32806b862fb2c89d"
+      },
+      {
+        "id": "ab3e14702d75f2b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+            "mode": "preview"
+          }
+        },
+        "group": "32806b862fb2c89d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1375e47475bea41",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb7dde434235572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "190058296f1fd7b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "525a4796612bc5c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a55ac0049a80ecb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eb80cb9769e83ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2689ce026c881a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab3e14702d75f2b9",
+  "lastOpenFiles": [
+    "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+    "Relacija/Podatkovni modeli/E-R model/Modeliranje.md",
+    "Relacija/Podatkovni modeli/E-R model.md",
+    "Relacija/Podatkovni modeli/E-R model/Primer E-R modela.md",
+    "Relacija/Informacijski sistem.md",
+    "Java/Abstraktni razred.md",
+    "Java/Izjeme.md",
+    "Relacija/Podatkovni modeli/Relacijska algebra.md",
+    "Relacija/Podatkovni modeli/Relacijski model.md",
+    "Relacija/Relacije.md"
+  ]
+}
