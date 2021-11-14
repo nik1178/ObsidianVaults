@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d4b53129b53830",
+        "id": "b56016b6f0e9a3fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Relacija/Podatkovni modeli/E-R model.md",
-            "mode": "source"
-          }
-        },
-        "group": "32806b862fb2c89d"
-      },
-      {
-        "id": "ab3e14702d75f2b9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Relacija/Podatkovni modeli/E-R model.md",
-            "mode": "preview"
-          }
-        },
-        "group": "32806b862fb2c89d"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relacija/Podatkovni modeli/E-R model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7d4b53129b53830",
+  "active": "b56016b6f0e9a3fa",
   "lastOpenFiles": [
-    "Relacija/Podatkovni modeli/E-R model.md",
+    "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+    "Relacija/Relacije.md",
+    "Relacija/Podatkovni modeli/E-R model/Moderliranje postopkov.md",
     "Relacija/Podatkovni modeli/E-R model/Normalizacija.md",
+    "Relacija/Podatkovni modeli/E-R model.md",
     "Relacija/Podatkovni modeli/E-R model/Primer E-R modela.md",
     "Relacija/Podatkovni modeli/E-R model/Zapis E-R diagrama.md",
-    "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
     "Relacija/Podatkovni modeli/E-R model/Modeliranje.md",
     "Relacija/Informacijski sistem.md",
-    "Java/Abstraktni razred.md",
-    "Java/Izjeme.md",
-    "Relacija/Podatkovni modeli/Relacijska algebra.md"
+    "Java/Abstraktni razred.md"
   ]
 }

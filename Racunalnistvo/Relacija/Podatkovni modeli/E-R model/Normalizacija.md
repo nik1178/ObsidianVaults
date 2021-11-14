@@ -6,6 +6,8 @@
 
 ```mermaid
 flowchart TD
-0[normalizirani podatki]-->|odprava ponavljajočih grup|1[1. normalizirana forma]
+0[nenormalizirani podatki]-->|odprava ponavljajočih grup|1[1. normalizirana forma]
 1-->|odprava odvisnosti od dela ključa|2[2. normalizirana forma]
 2-->|odprava tranzitivne odvisnosti|3[3. normalizirana forma]
+```
+![[Normalizacija.jpg]]
