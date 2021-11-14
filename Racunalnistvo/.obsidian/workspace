@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+            "file": "Zapis E-R diagrama.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+            "file": "Zapis E-R diagrama.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
+                "file": "Zapis E-R diagrama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab3e14702d75f2b9",
+  "active": "a7d4b53129b53830",
   "lastOpenFiles": [
+    "Zapis E-R diagrama.md",
     "Relacija/Podatkovni modeli/E-R model/Grafični simboli za predstavitev E-R modela.md",
     "Relacija/Podatkovni modeli/E-R model/Modeliranje.md",
     "Relacija/Podatkovni modeli/E-R model.md",
@@ -109,7 +110,6 @@
     "Java/Abstraktni razred.md",
     "Java/Izjeme.md",
     "Relacija/Podatkovni modeli/Relacijska algebra.md",
-    "Relacija/Podatkovni modeli/Relacijski model.md",
-    "Relacija/Relacije.md"
+    "Relacija/Podatkovni modeli/Relacijski model.md"
   ]
 }
