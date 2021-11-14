@@ -37,3 +37,4 @@ Je orodje za modeliranje podatkov, ki prikazuje povezave (odnose) med različnim
 ![[Primer E-R modela]]
 ![[Grafični simboli za predstavitev E-R modela]]
 ![[Modeliranje]]
+![[Normalizacija]]

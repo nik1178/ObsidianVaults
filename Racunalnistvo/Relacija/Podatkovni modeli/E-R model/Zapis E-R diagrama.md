@@ -7,9 +7,10 @@ class ENTITETA{
 	atribut3 tip lastnosti
 	() ...
 }
+ENTITETA-->DIJAK
 class DIJAK{
-	atribut1 tip lastnosti
-	atribut2 tip lastnosti
-	atribut3 tip lastnosti
+	ID_dijaka* integer NN PK
+	ime Char(15) NN
+	priimek Char(25) NN
 	() ...
 }
